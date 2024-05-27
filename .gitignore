@@ -1,0 +1,16 @@
+\[게임 프로그래머 입문 올인원\] C++ & 자료구조알고리즘 & STL & 게임 수학 & Windows API & 게임 서버/Section 0. OT/GameCoding/GameCoding/x64/Debug/GameCoding.tlog/Cl.items.tlog
+*.obj
+*.idb
+*.log
+*.pdb
+*.ilk
+*.user
+*.tlog
+*.ipch
+*.recipe
+*.filters
+*.json
+*.db
+*.suo
+*.vsidx
+*.sln
