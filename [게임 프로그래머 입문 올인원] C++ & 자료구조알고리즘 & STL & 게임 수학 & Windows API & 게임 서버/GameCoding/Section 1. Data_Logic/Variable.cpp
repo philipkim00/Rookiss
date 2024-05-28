@@ -10,6 +10,4 @@ int hp_1; // _사용가능
 int main()
 {
 	std::cout << "Hello World\n";
-	
-	return 0;
 }
